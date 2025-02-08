@@ -4,13 +4,14 @@ I am a C developer with previous Linux system administration experience. I am al
 I spend most of my time writing **low-level code**, experimenting with **game engines**, and figuring out how systems work under the hood.  
 I care about **performance, efficiency, and simplicity** in code—no unnecessary abstractions, just straight-to-the-metal solutions.  
 
+
 ## 🚀 What I Work On  
 🔹 **Systems Programming** – Memory management, file I/O, multithreading  
 🔹 **Game Development** – Custom game engines, physics simulations, SDL/OpenGL  
 🔹 **Networking in C** – Sockets, TCP/UDP, simple protocols  
-🔹 **OS-Level Programming** – Interacting with Linux APIs, device drivers, process management
 
-## 🛠️ Tools & Tech I Use  
+
+## 🛠️ Tools and Technologies that I Use  
 - **Languages:** C (obviously), Bash, a bit of Assembly  
 - **Libraries & APIs:** SDL, OpenGL, POSIX, pthreads, sockets  
 - **Systems:** Arch Linux (main), Debian, Windows (when absolutely necessary)  
