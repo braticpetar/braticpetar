@@ -13,7 +13,7 @@ I care about **performance, efficiency, and simplicity** in code—no unnecessar
 
 ## 🛠️ Tools and Technologies that I Use  
 - **Languages:** C (obviously), Bash, a bit of Assembly  
-- **Libraries & APIs:** SDL, OpenGL, POSIX, pthreads, sockets  
+- **Libraries and APIs:** SDL, OpenGL, POSIX, pthreads, sockets  
 - **Systems:** Arch Linux (main), Debian, Windows (when absolutely necessary)  
 - **Debugging & Optimization:** gdb, valgrind, perf, static analysis  
 
