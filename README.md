@@ -19,9 +19,6 @@ I'm a C programmer and game developer from Belgrade. I spend most of my time cod
 - **System Admin**: Linux, Networking, Windows Server
 - **Databases**: PostgreSQL, MySQL
 
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braticpetar&layout=compact&theme=radical)
-
 ## Contact
 - **Email**: [braticpetar44@proton.me](mailto:braticpetar44@proton.me)
 - **LinkedIn**: https://www.linkedin.com/in/petar-bratic/
